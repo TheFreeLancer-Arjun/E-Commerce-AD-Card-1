@@ -3,7 +3,6 @@
 This project is a simple HTML and CSS implementation of an advertisement card for clothes - a fictional clothing brand specializing in stylish and affordable clothing.
 
 ## Features
-- Fully responsive design for various devices.
 - Clean and visually appealing layout.
 - Highlights clothing products effectively.
 
